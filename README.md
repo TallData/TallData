@@ -1,4 +1,4 @@
-### 👋🏾 
+### 👋🏾 Thanks for stopping by
 
  🎙️ Building out Beyond Normal Media to highlighting incredible underserved founders
 
