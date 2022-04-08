@@ -4,7 +4,7 @@
  🎙️ Highlighting incredible underserved founders <br>
  🕰️ 9to5 as a Sr. Manager, Client Success        <br>
  
-Let's Connect: <a href="https://calendly.com/talldata/quick">Schedule Time</a>
+Let's Connect: <a href="https://calendly.com/talldata/quick">Schedule 15 minutes</a>
 
 <!--
 **TallData/TallData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
