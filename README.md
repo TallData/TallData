@@ -6,8 +6,10 @@
  
 Let's Connect: <a href="https://calendly.com/talldata/quick">Schedule 15 minutes</a>
 
-
-<div id='buzzsprout-large-player-limit-5'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1060771.js?artist=&container_id=buzzsprout-large-player-limit-5&limit=5&player=large&tags='></script>
+<a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
+      </a>
 
 <!--
 **TallData/TallData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
