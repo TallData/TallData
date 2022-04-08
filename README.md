@@ -6,7 +6,7 @@
  
 Let's Connect: <a href="https://calendly.com/talldata/quick">Schedule 15 minutes</a>
 
-<a href="https://podcasts.apple.com/us/podcast/beyond-normal/id1514971138">
+Podcast <a href="https://podcasts.apple.com/us/podcast/beyond-normal/id1514971138">
          <img alt="Apple" src="https://github.com/TallData/TallData/blob/main/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg"
          width=130" height="70">
       </a>
