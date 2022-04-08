@@ -1,8 +1,8 @@
 ### 👋🏾 Thanks for stopping by
 
- 🧙🏾‍♂️ Founder of Beyond Normal Media               <br>
+ 🧙🏾‍♂️  Founder of Beyond Normal Media               <br>
  🎙️ Highlighting incredible underserved founders <br>
- 🕰️ 9to5 as a Sr. Manager, Client Success        <br>
+ 🕰️  9to5 as a Sr. Manager, Client Success        <br>
  
 Let's Connect: <a href="https://calendly.com/talldata/quick">Schedule 15 minutes</a>
 
