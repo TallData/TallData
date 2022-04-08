@@ -1,8 +1,8 @@
 ### 👋🏾 Thanks for stopping by
 
- -🕴🏾 Founder of Beyond Normal Media
- -🎙️ Highlighting incredible underserved founders
- -🕰️ 9to5 as a Sr. Manager, Client Success
+ 🕴🏾 Founder of Beyond Normal Media <br>
+ 🎙️ Highlighting incredible underserved founders <br>
+ 🕰️ 9to5 as a Sr. Manager, Client Success <br>
  
  ##Let's Connect
 
