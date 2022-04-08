@@ -1,6 +1,6 @@
 ### 👋🏾 
 
-- 🎙️ I’m currently working on Beyond Normal Media by highlighting incredible underserved founders across the 🗺️
+ 🎙️ I’m currently working on Beyond Normal Media by highlighting incredible underserved founders across the 🗺️
 - 
 <!--
 **TallData/TallData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
