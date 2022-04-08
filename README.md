@@ -1,6 +1,10 @@
 ### 👋🏾 Thanks for stopping by
 
- 🎙️ Building out Beyond Normal Media to highlighting incredible underserved founders
+ 🕴🏾 Founder of Beyond Normal Media
+ 🎙️ Highlighting incredible underserved founders
+ 🕰️ 9to5 as a Sr. Manager, Client Success
+ 
+ ##Let's Connect
 
 <!--
 **TallData/TallData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
