@@ -6,9 +6,9 @@
  
 Let's Connect: <a href="https://calendly.com/talldata/quick">Schedule 15 minutes</a>
 
-<a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
+<a href="https://podcasts.apple.com/us/podcast/beyond-normal/id1514971138">
+         <img alt="Qries" src="https://github.com/TallData/TallData/blob/main/beyond_normal_728x90.png"
+         width=130" height="70">
       </a>
 
 <!--
