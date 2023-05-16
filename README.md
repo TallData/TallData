@@ -4,7 +4,7 @@
  🎙️ Highlighting incredible underserved founders <br>
  🕰️  9to5 as a Sr. Manager, Client Success        <br>
  
-Let's Connect: <a href="https://calendly.com/talldata/quick">Schedule 15 minutes</a>
+Let's Connect: <a href="https://calendly.com/beyondnormalmedia">Schedule time to chat today</a>
 
 <a href="https://podcasts.apple.com/us/podcast/beyond-normal/id1514971138">
          <img alt="Apple" src="https://github.com/TallData/TallData/blob/main/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg"
