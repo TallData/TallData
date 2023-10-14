@@ -2,7 +2,7 @@
 
  🧙🏾‍♂️  Founder of Beyond Normal Media               <br>
  🎙️ Highlighting incredible underserved founders <br>
- 🕰️  9to5 as a Sr. Manager, Client Success        <br>
+ 🕰️  9to5 as a Customer Success Manager for SaaS enterprises        <br>
  
 Let's Connect: <a href="https://calendly.com/d/djp-v9k-5xv">Schedule time to chat today</a>
 
