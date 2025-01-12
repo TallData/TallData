@@ -4,7 +4,7 @@
  🎙️ Highlighting incredible underserved founders <br>
  🕰️  9to5 as a Customer Success Manager for SaaS enterprises        <br>
  
-Let's Connect: <a href="https://calendly.com/d/djp-v9k-5xv">Schedule time to chat today</a>
+Let's Connect: <a href="https://calendly.com/d/djp-v9k-5xv">Schedule time to chat today</a> <br>
 Tap in with Beyond Normal Media: <a href="[https://calendly.com/d/djp-v9k-5xv](https://www.beyondnormalmedia.com/)">Content On Deck</a>
 
 
